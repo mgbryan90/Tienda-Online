@@ -1,0 +1,20 @@
+.container {
+  min-height: calc(100vh - 70px);
+  background: url(../../Images/fondo-botella.jpg) no-repeat;
+  background-size: cover;
+  background-position: center;
+  margin-top: 70px;
+  
+}
+
+.container-card {
+  margin-top: 30px;
+  width: 200px;
+  height: 400px;
+  background: #fff;
+}
+
+.container .container-card h2 {
+  color: black;
+  
+}
